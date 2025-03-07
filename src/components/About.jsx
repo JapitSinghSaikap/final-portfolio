@@ -25,7 +25,7 @@
           </p>
           <p className="text-lg">
             When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or
-            sharing my knowledge through tech blogs and community events.
+            playing Basketball and enjoying sceneic travels.
           </p>
         </motion.div>
       </motion.section>
