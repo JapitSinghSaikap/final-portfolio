@@ -15,7 +15,7 @@ const projects = [
   { 
     title: "Online Catalog Maker", 
     description: "Engineered an innovative solution enabling seamless customization of digital catalogs through a user-friendly interface", 
-    githubUrl: "https://github.com/yourusername/e-catalog-maker" 
+    githubUrl: "https://github.com/JapitSinghSaikap/Power-Rangers-E-Catalog-" 
   },
 ];
 
