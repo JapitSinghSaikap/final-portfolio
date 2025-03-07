@@ -1,15 +1,16 @@
 import React, { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 // import Navbar from './components/Navbar';
-import Navbar from "../components/Navbar";
+import Navbar from "./components/Navbar";
 import About from './components/About';
 // import Projects from './components/Projects';
-import Projects from "../components/projects";
+import Projects from "./components/Projects";
 import Header from './components/Header';
 import Contact from './components/Contacts';
-// import Experience from "./components/Experience";
 import Experience from "./components/Experience";
-import Skills from "./components/Skills";
+// import Experience from "./components/Experience";
+// import Experience from "./components/Experience";
+// import Skills from "./components/Skills";
 // import Projects from "./components/Projects";
 
 const Particle = ({ x, y, size, delay }) => {
