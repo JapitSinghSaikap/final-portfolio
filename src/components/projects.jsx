@@ -10,12 +10,12 @@ const projects = [
   { 
     title: "Job Posting Platform", 
     description: " Developed an interactive front-end design for a freelancer job posting site with React and Tailwind CSS", 
-    githubUrl: "https://github.com/yourusername/freelancer-hiring-platform" 
+    githubUrl: "https://github.com/JapitSinghSaikap/FEE-Project-II-" 
   },
   { 
     title: "Online Catalog Maker", 
     description: "Engineered an innovative solution enabling seamless customization of digital catalogs through a user-friendly interface", 
-    githubUrl: "https://github.com/yourusername/e-catalog-maker" 
+    githubUrl: "https://github.com/JapitSinghSaikap/Power-Rangers-E-Catalog-" 
   },
 ];
 
