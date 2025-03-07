@@ -24,7 +24,7 @@
             expertise in both front-end and back-end development, I bring ideas to life through clean, efficient code.
           </p>
           <p className="text-lg">
-            When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, playing basketball and watching Sci-fi series.
+            When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, playing Basketball and watching Sci-fi series.
           </p>
         </motion.div>
       </motion.section>
